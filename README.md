@@ -11,8 +11,8 @@
 
 #### 文件下载
 
- - [卸载Edge浏览器]()
- - [卸载Cortana/小娜]()
+ - [卸载Edge浏览器](https://github.com/littleostar-toolbox/uninstall_edge_cortana_on_windows_10/releases/download/0.1/Uninstall_Edge.zip)
+ - [卸载Cortana/小娜](https://github.com/littleostar-toolbox/uninstall_edge_cortana_on_windows_10/releases/download/0.1/Uninstall_Cortana.zip)
 
 ---
 
